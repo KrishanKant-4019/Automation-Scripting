@@ -17,7 +17,7 @@ def clean_temp_files(folder = "datasets", extensions = (".tmp", ".log", ".bak"))
             shutil.rmtree(file)
             removed += 1
 
-    print(f"🧹 Cleaned {removed} unwanted files/folders from {folder_path}")
+    print(f"Cleaned {removed} unwanted files/folders from {folder_path}")
 
 if __name__ == "__main__":
     clean_temp_files()
