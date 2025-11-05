@@ -1,0 +1,6 @@
+2025-11-05 18:41:38,920 - INFO - ----- Data Archiver Bot Started -----
+2025-11-05 18:41:38,941 - INFO - Copied: customers.csv
+2025-11-05 18:41:38,956 - INFO - Copied: orders.csv
+2025-11-05 18:41:38,966 - INFO - Copied: sales.csv
+2025-11-05 18:41:38,966 - INFO - Total files processed (copy): 3
+2025-11-05 18:41:38,966 - INFO - ----- Data Archiver Bot Finished -----
